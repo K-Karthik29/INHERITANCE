@@ -1,0 +1,9 @@
+# INHERITANCE(one of the major piller in the OOPS)
+  the process of a sub class inhrting the properties of the super class is called as the inheritance it is also called as IS-A   relationship.
+  inheritance is a unidirectional property where sub class can acess the properties of the super class but not vice-versa.
+  inheritance is achived by the key word called as "extends".
+  even though we perform the inheritence we cant get the following properties from the super class private members,static        member,initialisation blocks and constructor.
+  we cant inherit the properties from class which is final.
+  the main motive of the inheritance is code reusability.
+  inheritance is used in polymorphism,generalisation vs specialisation.
+  inheritance is of following types:single level inheritance,mulitple inheritance,multi level inheritance,heirachical            inheritance and hybrid inhheritance.
